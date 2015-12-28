@@ -3,5 +3,10 @@ h1 {
 	font-weight: bold;
 	font-family: arial, helvetica, sans-serif;
 	color: red;
+	font-size: 2em;
+}
+
+p {
 	font-size: 1.5em;
+	font-family: arial, helvetica, sams-serif;
 }
